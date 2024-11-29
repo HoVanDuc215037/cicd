@@ -30,7 +30,7 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: cudohs2docker/ci-cd:staging2
+          tags: cudohs2docker/ci-cd:image1
 
 
   pull-and-up:
